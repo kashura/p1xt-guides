@@ -24,6 +24,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ## Tier 1 - Non-Python frontend necessities for Web Development
 **Goal:** Become Proficient with HTML, CSS and JavaScript, including the frontend framework/library of your choice plus D3.
+- [ ] Course: [Watch and Code: Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 - [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
 - [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
